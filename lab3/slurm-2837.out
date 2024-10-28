@@ -1,0 +1,6 @@
+rm .objs/*.o
+rm mat_vec_mult.out
+gcc -O3 -g -fopenmp -c -o mat_vec_mult.o mat_vec_mult.c
+gcc -O3 -g -fopenmp -o mat_vec_mult.out mat_vec_mult.o
+mv *.o .objs/
+/var/spool/slurm/d/job02837/slurm_script: line 34: python: command not found

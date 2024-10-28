@@ -1,0 +1,138 @@
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 1
+A<20000, 5300, 21190001>
+B<5300, 50000, 53000000>
+C<20000, 0, 997842912>
+Serial execution time: 384435424.0000 microseconds
+Speed up: 1.1490
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 2
+A<20000, 5300, 21190064>
+B<5300, 50000, 53000000>
+C<20000, 0, 997559186>
+Parallel execution time: 168922288.0000 microseconds
+C<20000, 0, 997559186>
+Serial execution time: 376165952.0000 microseconds
+Speed up: 2.2269
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 4
+A<20000, 5300, 21190130>
+B<5300, 50000, 53000000>
+C<20000, 0, 997712443>
+Parallel execution time: 91653424.0000 microseconds
+C<20000, 0, 997712443>
+Serial execution time: 381904544.0000 microseconds
+Speed up: 4.1668
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 8
+A<20000, 5300, 21190001>
+B<5300, 50000, 53000000>
+C<20000, 0, 997688175>
+Parallel execution time: 48369736.0000 microseconds
+C<20000, 0, 997688175>
+Serial execution time: 375235744.0000 microseconds
+Speed up: 7.7577
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 12
+A<20000, 5300, 21190012>
+B<5300, 50000, 53000000>
+C<20000, 0, 998144785>
+Parallel execution time: 34952440.0000 microseconds
+C<20000, 0, 998144785>
+Serial execution time: 373959232.0000 microseconds
+Speed up: 10.6991
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 14
+A<20000, 5300, 21190134>
+B<5300, 50000, 53000000>
+C<20000, 0, 997801557>
+Parallel execution time: 31109004.0000 microseconds
+C<20000, 0, 997801557>
+Serial execution time: 373813632.0000 microseconds
+Speed up: 12.0163
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 16
+A<20000, 5300, 21189971>
+B<5300, 50000, 53000000>
+C<20000, 0, 997258708>
+Parallel execution time: 37989980.0000 microseconds
+C<20000, 0, 997258708>
+Serial execution time: 375392992.0000 microseconds
+Speed up: 9.8814
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 20
+A<20000, 5300, 21190047>
+B<5300, 50000, 53000000>
+C<20000, 0, 997368823>
+Parallel execution time: 36299420.0000 microseconds
+C<20000, 0, 997368823>
+Serial execution time: 379039296.0000 microseconds
+Speed up: 10.4420
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 24
+A<20000, 5300, 21190061>
+B<5300, 50000, 53000000>
+C<20000, 0, 997352236>
+Parallel execution time: 36594012.0000 microseconds
+C<20000, 0, 997352236>
+Serial execution time: 376415264.0000 microseconds
+Speed up: 10.2863
+
+A_nrows: 20000
+A_ncols: 5300
+B_nrows: 5300
+B_ncols: 50000
+factor: 0.2
+nthreads: 28
+A<20000, 5300, 21190022>
+B<5300, 50000, 53000000>
+C<20000, 0, 997780917>
+Parallel execution time: 38124948.0000 microseconds
+C<20000, 0, 997780917>
+Serial execution time: 376801824.0000 microseconds
+Speed up: 9.8833
+

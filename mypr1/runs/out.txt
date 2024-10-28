@@ -1,0 +1,179 @@
+NUM OF THREADS: 1
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2615 seconds
+No tiling parallel execution time (1 threads): 1.2610 seconds
+Tiling parallel execution time (100 tiles): 0.8837 seconds
+
+NUM OF THREADS: 2
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2615 seconds
+No tiling parallel execution time (2 threads): 0.8124 seconds
+Tiling parallel execution time (100 tiles): 0.5625 seconds
+
+NUM OF THREADS: 4
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2615 seconds
+No tiling parallel execution time (4 threads): 0.8119 seconds
+Tiling parallel execution time (100 tiles): 0.5598 seconds
+
+NUM OF THREADS: 8
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2617 seconds
+No tiling parallel execution time (8 threads): 0.8462 seconds
+Tiling parallel execution time (100 tiles): 0.5220 seconds
+
+NUM OF THREADS: 12
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2621 seconds
+No tiling parallel execution time (12 threads): 0.7634 seconds
+Tiling parallel execution time (100 tiles): 0.4934 seconds
+
+NUM OF THREADS: 14
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2609 seconds
+No tiling parallel execution time (14 threads): 0.7328 seconds
+Tiling parallel execution time (100 tiles): 0.4839 seconds
+
+NUM OF THREADS: 16
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2611 seconds
+No tiling parallel execution time (16 threads): 0.7159 seconds
+Tiling parallel execution time (100 tiles): 0.5165 seconds
+
+NUM OF THREADS: 20
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2613 seconds
+No tiling parallel execution time (20 threads): 0.6939 seconds
+Tiling parallel execution time (100 tiles): 0.4814 seconds
+
+NUM OF THREADS: 24
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2619 seconds
+No tiling parallel execution time (24 threads): 0.6771 seconds
+Tiling parallel execution time (100 tiles): 0.4897 seconds
+
+NUM OF THREADS: 28
+MATRIX SIZE: A[1000][1000], B[1000][1000], C[1000][1000]
+Serial execution time (1 thread): 1.2620 seconds
+No tiling parallel execution time (28 threads): 0.6413 seconds
+Tiling parallel execution time (100 tiles): 0.4729 seconds
+
+NUM OF THREADS: 1
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.1558 seconds
+No tiling parallel execution time (1 threads): 27.2505 seconds
+Tiling parallel execution time (250 tiles): 10.2183 seconds
+
+NUM OF THREADS: 2
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.2113 seconds
+No tiling parallel execution time (2 threads): 21.1558 seconds
+Tiling parallel execution time (250 tiles): 5.6098 seconds
+
+NUM OF THREADS: 4
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.1778 seconds
+No tiling parallel execution time (4 threads): 21.8739 seconds
+Tiling parallel execution time (250 tiles): 5.6085 seconds
+
+NUM OF THREADS: 8
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.6710 seconds
+No tiling parallel execution time (8 threads): 20.4709 seconds
+Tiling parallel execution time (250 tiles): 5.6130 seconds
+
+NUM OF THREADS: 12
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.2478 seconds
+No tiling parallel execution time (12 threads): 18.7828 seconds
+Tiling parallel execution time (250 tiles): 5.5840 seconds
+
+NUM OF THREADS: 14
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 28.1198 seconds
+No tiling parallel execution time (14 threads): 17.9981 seconds
+Tiling parallel execution time (250 tiles): 5.5981 seconds
+
+NUM OF THREADS: 16
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 28.2407 seconds
+No tiling parallel execution time (16 threads): 17.7220 seconds
+Tiling parallel execution time (250 tiles): 5.6032 seconds
+
+NUM OF THREADS: 20
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.1809 seconds
+No tiling parallel execution time (20 threads): 16.5289 seconds
+Tiling parallel execution time (250 tiles): 5.5808 seconds
+
+NUM OF THREADS: 24
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.1869 seconds
+No tiling parallel execution time (24 threads): 15.9808 seconds
+Tiling parallel execution time (250 tiles): 5.5934 seconds
+
+NUM OF THREADS: 28
+MATRIX SIZE: A[1000][2000], B[2000][5000], C[1000][5000]
+Serial execution time (1 thread): 27.2956 seconds
+No tiling parallel execution time (28 threads): 15.5281 seconds
+Tiling parallel execution time (250 tiles): 5.6078 seconds
+
+NUM OF THREADS: 1
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 439.5732 seconds
+No tiling parallel execution time (1 threads): 439.6384 seconds
+Tiling parallel execution time (125 tiles): 77.8965 seconds
+
+NUM OF THREADS: 2
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 433.3631 seconds
+No tiling parallel execution time (2 threads): 304.3610 seconds
+Tiling parallel execution time (125 tiles): 47.1715 seconds
+
+NUM OF THREADS: 4
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 439.7721 seconds
+No tiling parallel execution time (4 threads): 255.1614 seconds
+Tiling parallel execution time (125 tiles): 47.5219 seconds
+
+NUM OF THREADS: 8
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 399.0647 seconds
+No tiling parallel execution time (8 threads): 216.9738 seconds
+Tiling parallel execution time (125 tiles, 8 threads): 47.4282 seconds
+
+NUM OF THREADS: 12
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 398.9647 seconds
+No tiling parallel execution time (12 threads): 161.7101 seconds
+Tiling parallel execution time (125 tiles, 12 threads): 47.3656 seconds
+
+NUM OF THREADS: 14
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 398.1588 seconds
+No tiling parallel execution time (14 threads): 158.0512 seconds
+Tiling parallel execution time (125 tiles, 14 threads): 47.3996 seconds
+
+NUM OF THREADS: 16
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 398.2785 seconds
+No tiling parallel execution time (16 threads): 148.2121 seconds
+Tiling parallel execution time (125 tiles, 16 threads): 47.3904 seconds
+
+NUM OF THREADS: 20
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 398.4950 seconds
+No tiling parallel execution time (20 threads): 244.0712 seconds
+Tiling parallel execution time (125 tiles, 20 threads): 47.3426 seconds
+
+NUM OF THREADS: 24
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 397.8797 seconds
+No tiling parallel execution time (24 threads): 235.9150 seconds
+Tiling parallel execution time (125 tiles, 24 threads): 47.4178 seconds
+
+NUM OF THREADS: 28
+MATRIX SIZE: A[9000][2500], B[2500][3750], C[9000][3750]
+Serial execution time (1 thread): 398.0468 seconds
+No tiling parallel execution time (28 threads): 222.2299 seconds
+Tiling parallel execution time (125 tiles, 28 threads): 47.3364 seconds
